@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="1080px"
+    android:layout_height="210px"
+    android:background="@drawable/new_widget_layout_bg"
+
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+    <TextView
+        android:id="@+id/city_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="黄埔区"
+        android:textSize="36px"
+        android:textColor="@color/white"
+        android:layout_marginLeft="50px"
+        android:layout_marginTop="56px"/>
+    <ImageView
+        android:id="@+id/weather_img"
+        android:layout_width="90px"
+        android:layout_height="90px"
+        android:layout_marginLeft="55px"
+        android:layout_marginTop="49px"/>
+    <TextView
+        android:id="@+id/currenttemp_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="52px"
+        android:textColor="@color/white"
+        android:text="31°"
+        android:layout_marginLeft="16px"
+        android:layout_marginTop="60px"
+        />
+    <TextView
+        android:id="@+id/weatherdescribe_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36px"
+        android:textColor="@color/white"
+        android:text="晴转多云"
+        android:layout_marginLeft="28px"
+        android:layout_marginTop="56px"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/dateweek_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36px"
+        android:textColor="@color/white"
+        android:text="07/29  星期四"
+        android:layout_marginRight="50px"
+        android:layout_marginTop="62px"
+      />
+
+</LinearLayout>

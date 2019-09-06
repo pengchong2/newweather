@@ -1,0 +1,4 @@
+#Tue Jul 30 09:24:56 CST 2019
+base.0=D\:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

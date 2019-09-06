@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/weatherdetail"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/weather_lowcostbg"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <!-- android:background="@drawable/weather_tip_red_bg" -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="36px"
+            android:text="@string/title"
+            android:textColor="@color/white"
+            android:textSize="36px"
+            android:visibility="gone" />
+
+
+        <Button
+            android:id="@+id/choosecity_button"
+            android:layout_width="195px"
+            android:layout_height="102px"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="36px"
+            android:background="@drawable/weather_choose_city_style"
+            android:gravity="center"
+            android:paddingBottom="9px"
+            android:text="@string/choose_city"
+            android:textAllCaps="false"
+            android:textColor="@drawable/weather_textcolor"
+            android:textSize="@dimen/top_button_text_size"
+            android:typeface="normal"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/back_button1"
+            android:layout_width="101px"
+            android:layout_height="79px"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="19px"
+            android:layout_marginTop="33px"
+            android:background="@drawable/weather_back_style"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- android:background="@drawable/under_tid_bg" -->
+
+        <cn.flyaudio.weather.view.ViewFlow
+            android:id="@+id/viewflow"
+            android:layout_width="match_parent"
+            android:layout_height="900px"
+            android:visibility="visible"
+            android:duplicateParentState="true"
+
+            ></cn.flyaudio.weather.view.ViewFlow>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/fresh_button"
+        android:layout_width="100px"
+        android:layout_height="90px"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/weather_fresh_city_style"
+        android:gravity="center"
+        android:textAllCaps="false"
+        android:textColor="@drawable/weather_textcolor"
+        android:textSize="@dimen/top_button_text_size"
+        android:typeface="normal" />
+
+    <Button
+        android:id="@+id/freshbutton"
+        android:layout_width="39px"
+        android:layout_height="39px"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="30px"
+        android:layout_marginTop="28px"
+        android:background="@drawable/flyprogress_bar_quan"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/nettoast"
+        android:textColor="@color/white"
+        android:drawablePadding="-180px"
+        android:paddingTop="200px"
+        android:drawableTop="@drawable/neterror"
+        android:visibility="gone" />
+</RelativeLayout>

@@ -1,0 +1,1418 @@
+[
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_unit_big_temp.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_unit_big_temp.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_back_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_back_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\white_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_snow_flurry_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_snow_flurry_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_foggy.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_foggy.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_time_rotate.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\time_rotate.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_commonweather_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_commonweather_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_back_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_back_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_light_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_light_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_select_o.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_select_o.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_back_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_back_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_time_back_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\time_back_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_fresh_city_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_fresh_city_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_heavy_rain_to_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_heavy_rain_to_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_all_bg_2.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_all_bg_2.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e1.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e1.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mengban.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\mengban.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b18.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b18.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moredetails_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\moredetails_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_sleet.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_sleet.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_snow_flurry_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_snow_flurry_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b9.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b9.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_refresh.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_refresh.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_city_search_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\city_search_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_ice_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_ice_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_tittle_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_tittle_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_transparent.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\transparent.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e18.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e18.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_severe_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_severe_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_set_clock_off.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_set_clock_off.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_city_item_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_city_item_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_sunny_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_sunny_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_city_result_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_city_result_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b8.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b8.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_translate.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e0.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e0.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_daybg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_daybg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_back_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_back_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_light_to_moderate_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_light_to_moderate_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_chose_city_pre_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_chose_city_pre_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_haze.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_haze.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b19.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b19.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_heavy_to_severe_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_heavy_to_severe_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_overcast.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_overcast.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_on_d.9.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_on_d.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_na.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_na.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_city_result.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\city_result.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_time_minute_flip.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\time_minute_flip.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_dust.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_dust.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_moderate_to_heavy_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_moderate_to_heavy_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_icon.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_corners_bg.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_delete_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_delete_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_deletecolor_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_deletecolor_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_shower_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_shower_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_cloudy_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_cloudy_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_time_in.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\time_in.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b7.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b7.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_icon.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_add_city_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_add_city_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_haze.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_haze.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_delete_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_delete_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_back_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_back_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_back_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_back_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_add_city_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_add_city_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_sandstorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_sandstorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_duststorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_duststorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_snow_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_snow_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_select_button_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_select_button_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_delete_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_delete_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_choose_city_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_choose_city_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_time_nextshow.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\time_nextshow.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_gridview_cityitem.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\gridview_cityitem.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_add_city_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_add_city_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_heavy_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_heavy_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_time_scale.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\time_scale.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_detail_default_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_detail_default_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_sand.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_sand.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_heavy_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_heavy_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b17.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b17.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_overcast.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_overcast.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\xml_weather_widget.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\xml\\weather_widget.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_clockflag_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_clockflag_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e2.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e2.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_moderate_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_moderate_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e17.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e17.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_moredetailbutton.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\moredetailbutton.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_snow_flurry_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_snow_flurry_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_choose_city_button_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\choose_city_button_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_choose_city_button_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\choose_city_button_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_chance_of_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\detail_chance_of_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_thundershower.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_thundershower.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_humidity.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\detail_humidity.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_next_button.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_next_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_bg_night.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_bg_night.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e14.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e14.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_weather_city_item.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\weather_city_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e21.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e21.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_widget_icon.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_widget_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_light_to_moderate_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_light_to_moderate_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_storm_to_heavy_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_storm_to_heavy_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_unit_small_temp.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_unit_small_temp.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_weather_more_detail_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\weather_more_detail_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_moderate_to_heavy_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_moderate_to_heavy_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_uvindex.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\detail_uvindex.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_unit_small_temp.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_unit_small_temp.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_widget_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\xml_time_widget_flyaudio3_time.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\xml\\time_widget_flyaudio3_time.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_networksearch.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\networksearch.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_sandstorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_sandstorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_all_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_all_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b15.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b15.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_severe_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_severe_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_time_button.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\time_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_cityedit_activity_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\cityedit_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_sunny_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_sunny_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_light_to_moderate_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_light_to_moderate_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e4.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e4.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b22.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b22.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_city_result_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_city_result_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_chose_city_next_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_chose_city_next_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_heavy_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_heavy_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_light_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_light_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_select_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_select_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_heavy_to_severe_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_heavy_to_severe_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_all_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_all_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_set_clock_off.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_set_clock_off.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_shower_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_shower_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b5.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b5.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_city_result.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_city_result.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_unit_big_temp.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_unit_big_temp.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_city_search_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\city_search_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_na.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_na.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_networksearch.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\networksearch.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_thundershower_with_hail.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_thundershower_with_hail.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_sunny_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_sunny_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_thundershower.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_thundershower.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e3.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e3.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_more_detail_weather_in.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\more_detail_weather_in.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_moderate_to_heavy_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_moderate_to_heavy_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_word_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_word_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b23.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b23.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b16.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b16.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_choose_city_slider_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_choose_city_slider_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_select_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_select_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_viewflow_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\viewflow_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e19.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e19.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_foggy.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_foggy.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moredetails_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\moredetails_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_heavy_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_heavy_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_city_result_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_city_result_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_moderate_to_heavy_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_moderate_to_heavy_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_light_to_moderate_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_light_to_moderate_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b6.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b6.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_overcast.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_overcast.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_ice_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_ice_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_heavy_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_heavy_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_city_search_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\city_search_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_light_to_moderate_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_light_to_moderate_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_city_result_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_city_result_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_city_search_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\city_search_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_text_line.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_text_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_text_line.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_text_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_cloudy_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_cloudy_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e13.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e13.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_cloudy_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_cloudy_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_weather.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\menu_weather.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_time_settime.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\time_settime.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e20.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e20.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e9.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e9.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_on_u.9.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_on_u.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_foggy.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_foggy.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_time_item_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_time_item_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b0.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b0.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_light_to_moderate_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_light_to_moderate_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_snow_flurry_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_snow_flurry_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_moderate_to_heavy_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_moderate_to_heavy_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_heavy_snow_to_snowstorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_heavy_snow_to_snowstorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_widget_default_icon.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_widget_default_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_delete_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_delete_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e10.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e10.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_line.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_refresh_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_refresh_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_select_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_select_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cityresult_popup_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\cityresult_popup_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b1.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b1.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_clockflag.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_clockflag.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b10.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b10.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_choose_city_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_choose_city_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_into_datesetting_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_into_datesetting_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e8.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e8.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_haze.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_haze.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_fresh_city_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_fresh_city_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e11.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e11.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_duststorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_duststorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_chose_city_next_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_chose_city_next_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_storm_to_heavy_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_storm_to_heavy_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_lowcostbg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_lowcostbg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_time_out.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\time_out.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_cloudy_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_cloudy_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_chose_city_pre_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_chose_city_pre_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_time_item_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_time_item_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_new_widget_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\new_widget_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_last_few_days_weather_item.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\last_few_days_weather_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_moderate_to_heavy_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_moderate_to_heavy_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b2.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b2.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_widget_default_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_widget_default_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_chose_city_next_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_chose_city_next_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_shower_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_shower_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_weather.db.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\weather.db"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_dust.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_dust.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_heavy_snow_to_snowstorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_heavy_snow_to_snowstorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_clockflag.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_clockflag.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_cityresult_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\cityresult_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e7.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e7.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e12.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e12.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_chose_city_next_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_chose_city_next_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_sunny_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_sunny_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_chose_city_pre_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_chose_city_pre_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_snow_flurry_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_snow_flurry_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_choose_city_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_choose_city_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_heavy_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_heavy_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_time_layoutanimation.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\time_layoutanimation.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_into_datesetting_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_into_datesetting_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_ding.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_ding.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_delete_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_delete_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flyprogress_bar_quan.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\flyprogress_bar_quan.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_snow_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_snow_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_moderate_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_moderate_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_light_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_light_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_heavy_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_heavy_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_dust.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_dust.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_dushu.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_dushu.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_delete_button_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_delete_button_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_sand.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_sand.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_add_style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_add_style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_time_alarm_details.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\time_alarm_details.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_all_bg_2.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_all_bg_2.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_refresh_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_refresh_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b11.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b11.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_widget_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_widget_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_duststorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_duststorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_sandstorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_sandstorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout-ar_time_alarm_details.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout-ar\\time_alarm_details.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_choose_city_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_choose_city_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_snow_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_snow_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_shower_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_shower_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_weather_db_weather.db.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\weather_db_weather.db"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_severe_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_severe_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_widget_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_widget_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_addcity_activity_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\addcity_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_dingdong.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_dingdong.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_preview.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_preview.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_sunny_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_sunny_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_cloudy_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_cloudy_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e5.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e5.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_heavy_to_severe_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_heavy_to_severe_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_light_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_light_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_widget_default_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_widget_default_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_under_tid_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\under_tid_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_thundershower.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_thundershower.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b14.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b14.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_choose_city_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_choose_city_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_weather_loading.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\weather_loading.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_sand.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_sand.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_select_o.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_select_o.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_tip_red_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_tip_red_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_thundershower_with_hail.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_thundershower_with_hail.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_chose_city_pre_o.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_chose_city_pre_o.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_snow_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_snow_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\anim_more_detail_weather_out.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\anim\\more_detail_weather_out.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b21.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b21.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_sleet.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_sleet.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e22.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e22.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_storm_to_heavy_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_storm_to_heavy_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_choose_city_button.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_choose_city_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_temperature_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\temperature_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_set_clock_on.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_set_clock_on.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_snow_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_snow_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b4.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b4.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_fresh_city_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_fresh_city_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b13.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b13.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_moderate_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_moderate_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_moderate_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_moderate_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_heavy_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_heavy_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_snow_flurry_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_snow_flurry_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_heavy_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_heavy_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_back_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_back_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_weather_loading.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\weather_loading.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_visibility.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\detail_visibility.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_previous_button.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_previous_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_choose_city_button_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\choose_city_button_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_heavy_rain_to_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_heavy_rain_to_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_preview.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_preview.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_widget_layout_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\new_widget_layout_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_feelslike.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\detail_feelslike.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_set_clock_on.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_set_clock_on.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_back_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_back_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e15.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e15.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_add_city_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_add_city_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_add_city_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_add_city_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_chose_city_pre_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_chose_city_pre_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_cloudy_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_cloudy_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_widget_default_icon.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_widget_default_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_sunny_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_sunny_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_sleet.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_sleet.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b12.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b12.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_gg_big.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_gg_big.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_last_few_days_weather_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\last_few_days_weather_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b3.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b3.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_fresh_city_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_fresh_city_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_add_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_add_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_widget_icon.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_widget_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_ice_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_ice_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_choose_city_button_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\choose_city_button_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_into_datesetting_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_into_datesetting_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e16.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e16.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_light_rain.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_light_rain.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_thundershower_with_hail.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_thundershower_with_hail.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_two_point.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_two_point.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_weather_textcolor.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\weather_textcolor.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_details_activity_layout.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\details_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_into_datesetting_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_into_datesetting_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_last_few_days_weather_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\last_few_days_weather_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_time_two_point.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\time_two_point.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_properties.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\properties.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_chose_city_next_o.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_chose_city_next_o.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_heavy_snow_to_snowstorm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_heavy_snow_to_snowstorm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_wind.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\detail_wind.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_moderate_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_moderate_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_back_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\time_back_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable_button_city_search__style.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable\\button_city_search__style.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e6.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e6.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_select_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_select_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_light_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_light_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_shower_n.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_shower_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_fresh_city_u.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_fresh_city_u.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_add_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_add_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-night-hdpi_weather_moderate_snow.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-night-hdpi\\weather_moderate_snow.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_shower_d.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_shower_d.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_neterror.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\neterror.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_chimes.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_chimes.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_e23.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_e23.dat"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_bg_heavy_rain_to_storm.png.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\drawable-hdpi\\weather_bg_heavy_rain_to_storm.png"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\res\\merged\\debug\\raw_time_b20.dat.flat",
+        "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\raw\\time_b20.dat"
+    }
+]
