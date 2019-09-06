@@ -107,11 +107,6 @@ public class WeatherService extends Service implements Runnable, AMapLocationLis
         Log.d(TAG, " -----onCreate ");
         preference = getSharedPreferences("weather", MODE_PRIVATE);
 
-
-        Log.d("Flyaudio3_TimeService", "Flyaudio3_TimeService--->onCreate");
-//        mMediaPlayer_1 = new MediaPlayer();
-//        mMediaPlayer_2 = new MediaPlayer();
-
         IntentFilter intentFilter = new IntentFilter();
         intentFilter.addAction(Intent.ACTION_TIME_TICK); // 时间的流逝，以分钟为单位
         intentFilter.addAction(Intent.ACTION_TIME_CHANGED); // 时间被改变，人为设置时间
@@ -142,12 +137,6 @@ public class WeatherService extends Service implements Runnable, AMapLocationLis
         IntentFilter iFilter = new IntentFilter();
         iFilter.addAction(MediaAlarm);
         registerReceiver(alarmReceiver, iFilter);
-
-        //外部jar广播注册
-//        IntentFilter getWeatherif = new IntentFilter();
-//        getWeatherif.addAction(ACTION_APP_GETWEATHER);
-//        registerReceiver(new GetWeatherMsgRec(), getWeatherif);
-
 
         preference0 = getSharedPreferences("time", MODE_PRIVATE);
         if (!preference0.contains("alarmOrNot")) {
@@ -217,6 +206,7 @@ public class WeatherService extends Service implements Runnable, AMapLocationLis
 
     // 根据当前时间设置小部件相应的数字图片
     private void updateUI(int color) {
+        /*
         Log.d(TAG, "Flyaudio3_TimeService--->updateUI");
         RemoteViews remoteViews = null;
         remoteViews = new RemoteViews(((WeatherWidgetApplication) application).getSharePackageName(),
@@ -407,6 +397,8 @@ public class WeatherService extends Service implements Runnable, AMapLocationLis
         appWidgetManager.updateAppWidget(componentName, remoteViews);
         Log.d("WeatherWidget","updateUI action");
         sendBroadcast(new Intent(Constant.ACTION_APPWIDGET_UPDATE));
+
+        */
     }
 
     public String getWeek(int week) {
@@ -566,13 +558,16 @@ public class WeatherService extends Service implements Runnable, AMapLocationLis
                 @Override
                 public void onSuccess(List<FullWeatherInfo> fullWeatherInfoList) {
                     if (fullWeatherInfoList != null && fullWeatherInfoList.size() > 0) {
+                        FullWeatherInfo fullWeatherInfo = fullWeatherInfoList.get(0);
+                        SPUtils.getInstance().put("condition_temp", fullWeatherInfo.getCondition_temp());
+                        SPUtils.getInstance().put("condition_code", fullWeatherInfo.getCondition_code());
                         String json = new Gson().toJson(fullWeatherInfoList);
                         SPUtils.getInstance().put("weather_json", json);
                         sThreadRunning = false;
                         notifyForUpdateUI(0);
                         notifyForUpdateItemUI("");
                         backup = false;
-                        Log.d("yexingyun","getAllWeatherContent====full=="+fullWeatherInfoList.toString());
+                        Log.d(TAG,"getAllWeatherContent====full=="+fullWeatherInfoList.toString());
                     }
                     getlocation();
                 }

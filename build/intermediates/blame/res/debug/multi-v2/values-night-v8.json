@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\workspace\\TimeWeatherWidget\\WeatherWidget_Summary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\res\\values-night\\colors.xml",
+                    "source": "D:\\workspace\\TimeWeatherWidget\\WeatherWidget_Summary\\res\\values-night\\colors.xml",
                     "from": {
                         "startLines": "2,3,6,4",
                         "startColumns": "4,4,4,4",

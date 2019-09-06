@@ -1,16 +1,7 @@
 package cn.flyaudio.base;
-
-import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.View;
 import android.widget.Toast;
-
-import cn.flyaudio.base.MvpBaseActivity;
-import cn.flyaudio.base.MvpBasePresenter;
-import cn.flyaudio.base.MvpBaseView;
 
 /**
  * Created by 叶兴运 on

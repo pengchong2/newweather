@@ -142,7 +142,8 @@ public class ViewFlowAdapter extends BaseAdapter {
         }
         viewHolder = (ViewHolder) convertView.getTag();
         viewHolder.txtWindSpeed.setText(mForecastyweathers.getWindspeed());
-        viewHolder.cutTemp.setText(mForecastyweathers.getCondition_temp());
+        viewHolder.cutTemp.setText(mForecastyweathers.getCondition_temp()+"°");
+        viewHolder.txtCurWeatherCondition.setText(mForecastyweathers.getCondition_text());
         viewHolder.txtWindDirection.setText(mForecastyweathers.getWinddirection());
         viewHolder.viewWindSpeed.setText(mForecastyweathers.getWindspeed());
         viewHolder.viewWindDirection.setText(mForecastyweathers.getWinddirection());

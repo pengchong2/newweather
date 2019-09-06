@@ -9,8 +9,10 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Handler;
 import android.os.Message;
+
 import android.text.TextUtils;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.animation.Animation;
@@ -19,13 +21,10 @@ import android.view.animation.LinearInterpolator;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import cn.flyaudio.weather.GetWeatherMsgRec;
 import cn.flyaudio.base.BaseActivity;
 import cn.flyaudio.base.MvpBasePresenter;
@@ -55,7 +54,10 @@ public class WeatherDetailsActivity extends BaseActivity {
     private View weatherdetailview;
     public static int widthPixels = 0;
     private final int NOTIFYDATACHANGED = 0;
+
+
     private Handler mHandler = new Handler() {
+        @Override
         public void handleMessage(Message msg) {
 //            showToast("天气数据已更新完成");
             mViewFlowAdapter.notifyDataSetChanged();
@@ -74,6 +76,7 @@ public class WeatherDetailsActivity extends BaseActivity {
     }
 
     private void init() {
+
         weatherdetailview = findViewById(SkinResource.getSkinResourceId("weatherdetail", "id"));
         mViewFlow = (ViewFlow) findViewById(SkinResource.getSkinResourceId("viewflow", "id"));
         tvError= (TextView) findViewById(SkinResource.getSkinResourceId("tv_error", "id"));
@@ -95,8 +98,8 @@ public class WeatherDetailsActivity extends BaseActivity {
         String weatherJson = SPUtils.getInstance().getString("weather_json", "");
         if (TextUtils.isEmpty(weatherJson)) {
             //第一次打开应用的时候调用
-            mViewFlow.setAdapter(mViewFlowAdapter, 0);
-            initFisrtWeatherData(SPUtils.getInstance().getString("city", "广州"));
+           mViewFlow.setAdapter(mViewFlowAdapter, 0);
+           initFisrtWeatherData(SPUtils.getInstance().getString("city", "广州"));
         } else {
             SharedPreferences shared = getSharedPreferences("weather", 0);
             int currentpage = shared.getInt("current", 0) == 0 ? 0 : shared.getInt(
@@ -144,6 +147,7 @@ public class WeatherDetailsActivity extends BaseActivity {
                 FullWeatherInfo fullWeatherInfo = fullWeatherInfoList.get(0);
                 fullWeatherInfoListone.add(fullWeatherInfo);
                 SPUtils spUtils = SPUtils.getInstance();
+                Log.d(TAG,"temp = "+fullWeatherInfo.getCondition_temp()+" code = "+fullWeatherInfo.getCondition_code()+"json = "+new Gson().toJson(fullWeatherInfoListone));
                 spUtils.put("condition_temp", fullWeatherInfo.getCondition_temp());
                 spUtils.put("condition_code", fullWeatherInfo.getCondition_code());
                 spUtils.put("weather_json", new Gson().toJson(fullWeatherInfoListone));
@@ -152,7 +156,7 @@ public class WeatherDetailsActivity extends BaseActivity {
 
             @Override
             public void onError(String errmsg) {
-                showToast(errmsg);
+              //  showToast(errmsg);
                 tvError.setVisibility(View.VISIBLE);
             }
         });
@@ -161,6 +165,7 @@ public class WeatherDetailsActivity extends BaseActivity {
     @Override
     protected void onStop() {
         super.onStop();
+        Log.d(TAG,"onStop");
         try {
             if (mUIReceiver != null) {
                 unregisterReceiver(mUIReceiver);
@@ -187,6 +192,7 @@ public class WeatherDetailsActivity extends BaseActivity {
 
     @Override
     protected void onResume() {
+        Log.d(TAG,"onResume");
         super.onResume();
         init();
         WeatherWidgetApplication.getlanguage();
@@ -214,12 +220,16 @@ public class WeatherDetailsActivity extends BaseActivity {
 
     @Override
     protected void initView() {
+        Log.d(TAG,"initView");
+
         IntentFilter intentFilter = new IntentFilter();
         intentFilter.addAction("android.net.conn.CONNECTIVITY_CHANGE");
         networkChangeReceiver = new NetworkChangeReceiver();
         registerReceiver(networkChangeReceiver, intentFilter);
 
     }
+
+
 
     private class UpdateUIReceiver extends BroadcastReceiver {
         @Override
@@ -249,7 +259,7 @@ public class WeatherDetailsActivity extends BaseActivity {
                 String errmsg = intent.getStringExtra("errmsg");
                 Log.d("yexingyun", "errmsg==" + errmsg);
                 if (!TextUtils.isEmpty(errmsg)) {
-                    ToastUtil.show(WeatherDetailsActivity.this, errmsg);
+                   // ToastUtil.show(WeatherDetailsActivity.this, errmsg);
                 }
             }
 
@@ -260,6 +270,7 @@ public class WeatherDetailsActivity extends BaseActivity {
     @Override
     protected void onDestroy() {
         // TODO Auto-generated method stub
+        Log.d(TAG,"onDestroy");
         super.onDestroy();
 //        if (mUIReceiver != null) {
 //            unregisterReceiver(mUIReceiver);
@@ -307,29 +318,28 @@ public class WeatherDetailsActivity extends BaseActivity {
         if (UtilsTools.isNetworkAvailable(WeatherDetailsActivity.this)) {
             Log.e(TAG, "----WeatherService.isServiceRunning()--1" + WeatherService.isServiceRunning());
             if (!WeatherService.isServiceRunning()) {
-                Intent intent = new Intent(WeatherDetailsActivity.this,
-                        WeatherService.class);
+                Intent intent = new Intent(WeatherDetailsActivity.this,WeatherService.class);
                 startService(intent);
                 Log.e(TAG, "----WeatherService.isServiceRunning()--2" + WeatherService.isServiceRunning());
             }
-            showToast(SkinResource.getSkinStringByName("showToast"));
+           // showToast(SkinResource.getSkinStringByName("showToast"));
             mFreshButton1.setVisibility(View.VISIBLE);
             mFreshButton1.startAnimation(mAnim);
             mFreshButton.setVisibility(View.GONE);
         } else {
-            showToast(SkinResource.getSkinStringByName("neworkconnect"));
+           // showToast(SkinResource.getSkinStringByName("neworkconnect"));
         }
     }
 
     private class NetworkChangeReceiver extends BroadcastReceiver {
         @Override
         public void onReceive(Context context, Intent intent) {
+            Log.d(TAG,"onReceive NetworkChangeReceiver");
             ConnectivityManager connectivityManager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
             NetworkInfo networkInfo = connectivityManager.getActiveNetworkInfo();
             if (networkInfo != null && networkInfo.isAvailable()) {
                 if (!WeatherService.isServiceRunning()) {
-                    Intent mintent = new Intent(WeatherDetailsActivity.this,
-                            WeatherService.class);
+                    Intent mintent = new Intent(WeatherDetailsActivity.this,WeatherService.class);
                     startService(mintent);
                     Log.e(TAG, "----WeatherService.isServiceRunning()--2" + WeatherService.isServiceRunning());
                 }

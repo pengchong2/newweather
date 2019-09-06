@@ -80,6 +80,7 @@ public class WeatherWidget extends AppWidgetProvider {
     @Override
     public void onReceive(Context context, Intent intent) {
         super.onReceive(context, intent);
+
         if(intent != null){
             Log.d(TAG,"WeatherWidget action = "+intent.getAction()+" current value = "+intent.getIntExtra("current", -1));
         }
@@ -184,6 +185,7 @@ public class WeatherWidget extends AppWidgetProvider {
     @Override
     public void onUpdate(Context context, AppWidgetManager appWidgetManager,
                          int[] appWidgetIds) {
+
        Log.d(TAG,"WeatherWidget onUpdate");
         SharedPreferences shared = context.getSharedPreferences("weather", 0);
         SharedPreferences.Editor editor = shared.edit();
@@ -222,32 +224,11 @@ public class WeatherWidget extends AppWidgetProvider {
                     SkinResource.getSkinLayoutIdByName("new_widget_layout"));
         }
 
-       /*
+
         Intent detailIntent0 = new Intent(context, WeatherDetailsActivity.class);
         PendingIntent pending0 = PendingIntent.getActivity(context, 0,
                 detailIntent0, 0);
-        views.setOnClickPendingIntent(SkinResource.getSkinResourceId("currenttemp_tv", "id"), pending0);
-
-        Intent detailIntent1 = new Intent(context, WeatherDetailsActivity.class);
-        PendingIntent pending1 = PendingIntent.getActivity(context, 0,
-                detailIntent1, 1);
-        views.setOnClickPendingIntent(SkinResource.getSkinResourceId("weather_img", "id"), pending1);
-
-        Intent detailIntent2 = new Intent(context, AlarmDetails.class);
-        PendingIntent pending2 = PendingIntent.getActivity(context, 0,
-                detailIntent2, 2);
-        views.setOnClickPendingIntent(SkinResource.getSkinResourceId("dateweek_tv", "id"), pending2);
-
-        Intent detailIntent3 = new Intent(context, WeatherDetailsActivity.class);
-        PendingIntent pending3 = PendingIntent.getActivity(context, 0,
-                detailIntent3, 3);
-        views.setOnClickPendingIntent(SkinResource.getSkinResourceId("city_tv", "id"), pending3);
-
-        Intent detailIntent4 = new Intent(context, WeatherDetailsActivity.class);
-        PendingIntent pending4 = PendingIntent.getActivity(context, 0,
-                detailIntent3, 4);
-        views.setOnClickPendingIntent(SkinResource.getSkinResourceId("weatherdescribe_tv", "id"), pending4);
-*/
+        views.setOnClickPendingIntent(SkinResource.getSkinResourceId("widgetllayout", "id"), pending0);
         //没数据时默认显示的温度
         String noTempData = SkinResource.getSkinStringByName("no_temp_data");
 
@@ -257,10 +238,10 @@ public class WeatherWidget extends AppWidgetProvider {
            String condition_temp = SPUtils.getInstance().getString("condition_temp", noTempData);
            String condition_code = SPUtils.getInstance().getString("condition_code", "-1");
            if("--".equals(condition_temp)){
-               condition_temp = "31";
+               condition_temp = "33";
            }
            if("-1".equals(condition_code)){
-               condition_code ="00";
+               condition_code ="04";
            }
           // condition_temp = "31°";
           //  condition_code = "晴转多云";
@@ -277,10 +258,10 @@ public class WeatherWidget extends AppWidgetProvider {
         } else {
             Log.d(TAG,"dataflag = false");
             String noConditionData = SkinResource.getSkinStringByName("no_weather_data");
-            views.setTextViewText(SkinResource.getSkinResourceId("currenttemp_tv", "id"), "31°");
+            views.setTextViewText(SkinResource.getSkinResourceId("currenttemp_tv", "id"), "33°");
             views.setInt(SkinResource.getSkinResourceId("weather_img", "id"), "setBackgroundResource",
                     SkinResource.getSkinDrawableIdByName("weather_widget_default_icon"));
-            views.setTextViewText(SkinResource.getSkinResourceId("weatherdescribe_tv", "id"), "晴转多云");
+            views.setTextViewText(SkinResource.getSkinResourceId("weatherdescribe_tv", "id"), "雷阵雨");
         }
 
         SharedPreferences sharedCity = context.getSharedPreferences("weather", 0);
@@ -301,7 +282,7 @@ public class WeatherWidget extends AppWidgetProvider {
 
         Date dd = new Date();
         //样式为07/29 星期一
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM  EEE");
+        SimpleDateFormat sdf = new SimpleDateFormat("MM/dd  EEE");
         String dt = sdf.format(dd);
         views.setTextViewText(SkinResource.getSkinResourceId("dateweek_tv", "id"), dt);
         return views;
@@ -618,6 +599,18 @@ public class WeatherWidget extends AppWidgetProvider {
         context.stopService(intent);
         android.os.Process.killProcess(android.os.Process.myPid());
         System.exit(0);
+    }
+
+    @Override
+    public void onDisabled(Context context) {
+        super.onDisabled(context);
+        Log.d(TAG,"onDisabled");
+    }
+
+    @Override
+    public void onEnabled(Context context) {
+        super.onEnabled(context);
+        Log.d(TAG,"onEnabled");
     }
 
     private int getPastTime(Context context, SharedPreferences shared) {

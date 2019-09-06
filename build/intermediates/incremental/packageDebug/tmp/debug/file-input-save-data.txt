@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Tue Jul 30 09:24:56 CST 2019
+#Fri Aug 16 17:27:40 CST 2019
 0.baseType=DIRECTORY
-0.base=D\:\\workspace\\WeatherSummary_lowcost_1280-720\\WeatherWidget_Summary\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=D\:\\workspace\\TimeWeatherWidget\\WeatherWidget_Summary\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1

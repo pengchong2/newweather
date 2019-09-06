@@ -58,6 +58,7 @@ drawable moredetails_u
 drawable neterror
 drawable networksearch
 drawable new_widget_layout_bg
+drawable threeday_bg
 drawable time_back_d
 drawable time_back_style
 drawable time_back_u
@@ -78,6 +79,8 @@ drawable time_two_point
 drawable time_widget_bg
 drawable time_widget_icon
 drawable time_word_bg
+drawable today_bg
+drawable top_bg
 drawable transparent
 drawable under_tid_bg
 drawable weather_add_city_d
@@ -276,6 +279,8 @@ id time_ampm_text
 id time_hour_text
 id time_min_text
 id timelogo
+id top_img
+id top_title
 id tv_error
 id txt_cur_hight_temperature
 id txt_cur_low_temperature
@@ -291,7 +296,6 @@ id txt_widget_hight_temperature
 id txt_widget_low_temperature
 id txt_wind_direction
 id txt_wind_speed
-id view01
 id viewflow
 id weather_img
 id weather_in_time
@@ -313,6 +317,7 @@ id weather_time_view_windSpeed
 id weather_time_weather_icon
 id weather_time_windDirection
 id weather_time_windSpeed
+id weather_tv
 id weathercity
 id weathercity_pinyin
 id weatherdate
@@ -323,6 +328,8 @@ id weatherwidgetcolorbg
 id weatherwidgetcolormask
 id week
 id week_text
+id widgetllayout
+id wind_llayout
 layout addcity_activity_layout
 layout cityedit_activity_layout
 layout cityresult_layout

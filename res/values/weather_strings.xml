@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Weather</string>
-    <string name="title">Weather Forecast</string>
+    <string name="title">Weather</string>
     <string name="deletecity">Delete</string>
     <string name="addcity">insert</string>
     <string name="Today">Today</string>
@@ -181,7 +181,7 @@
     <string name="windspeed">Windspeed</string>
     <string name="degree_celsius">°C</string>
     <string name="degree">°</string>
-    <string name="low_to_hight_symbol">~</string>
+    <string name="low_to_hight_symbol">/</string>
     <string name="no_temp_data">--</string>
     <string name="no_weather_data">Weather</string>
 

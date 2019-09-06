@@ -8,10 +8,11 @@
 
     <FrameLayout
         android:id="@+id/details"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_marginLeft="69px"
-        android:visibility="visible">
+        android:layout_width="980px"
+        android:layout_height="510px"
+        android:layout_marginLeft="50px"
+        android:visibility="visible"
+        android:background="@drawable/today_bg">
 
         <!-- weather big bg -->
 
@@ -24,7 +25,8 @@
 
         <RelativeLayout
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent">
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="59px">
 
             <!-- weather city 城市-->
 
@@ -32,8 +34,7 @@
                 android:id="@+id/weathercity"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="45px"
-                android:layout_marginTop="32px"
+                android:layout_marginTop="53px"
                 android:ellipsize="marquee"
                 android:focusable="true"
                 android:focusableInTouchMode="true"
@@ -41,7 +42,17 @@
                 android:scrollHorizontally="true"
                 android:singleLine="true"
                 android:textColor="@color/white"
-                android:textSize="36px" />
+                android:textSize="44px" />
+
+            <TextView
+                android:id="@+id/curTemp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="44px"
+                android:layout_marginTop="53px"
+                android:layout_marginLeft="36px"
+                android:layout_toRightOf="@id/weathercity"/>
 
             <TextView
                 android:id="@+id/datafrom"
@@ -49,7 +60,8 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textColor="@color/white"
-                android:textSize="22px" />
+                android:textSize="22px"
+                android:visibility="gone"/>
 
             <!-- weather city pingyin -->
 
@@ -72,7 +84,8 @@
                 android:layout_toRightOf="@id/weathercity"
                 android:gravity="center"
                 android:textColor="@color/white"
-                android:textSize="22px" />
+                android:textSize="22px"
+                android:visibility="gone"/>
             <!-- update date -->
 
             <TextView
@@ -101,83 +114,70 @@
                 android:visibility="gone" />
 
 
-            <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/weathercity"
-                android:layout_marginLeft="45px"
-                android:gravity="center_horizontal">
+
 
 
                 <LinearLayout
                     android:id="@+id/curTemp_parent"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="33px"
-                    android:gravity="center_vertical"
-
+                    android:layout_marginTop="38px"
                     android:orientation="vertical"
+                    android:layout_below="@+id/weathercity"
                     android:visibility="visible">
 
-                    <!-- weather current temp num 当前温度-->
+
+
+
                     <LinearLayout
-                        android:id="@+id/view01"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50px"
-                        android:layout_marginTop="60px"
                         android:orientation="horizontal">
-
                         <TextView
-                            android:id="@+id/curTemp"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textColor="@color/white"
-                            android:textSize="110px" />
-
-                        <!-- weather current temp icon 度数图像 -->
-                        <ImageView
+                            android:textSize="28px"
+                            android:text="PM2.5值:   28μg/m3"/>
+                    </LinearLayout>
+                    <LinearLayout
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="13px"
-                            android:background="@drawable/weather_dushu" />
-                    </LinearLayout>
-
-                    <ImageView
-                        android:id="@+id/img_weather_icon"
-                        android:layout_width="70px"
-                        android:layout_height="70px"
-                        android:layout_marginLeft="70px" />
-                    <!--当前天气现象-->
-                    <TextView
-                        android:id="@+id/txt_cur_weather_condition"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="26px"
-                        android:textColor="@color/white"
-                        android:textSize="30px" />
-
-
-                    <!--风向速度-->
+                            android:layout_marginTop="32px">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/white"
+                                android:textSize="28px"
+                                android:text="空气质量:   优"/>
+                        </LinearLayout>
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="38px"
-                        android:layout_marginRight="77px"
-                        android:layout_toRightOf="@+id/view01">
-
-                        <LinearLayout
+                        android:layout_marginTop="36px">
+                        <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:gravity="center">
+                            android:textColor="@color/white"
+                            android:textSize="28px"
+                            android:text="湿度:   63%"/>
+                    </LinearLayout>
 
-                            <!--最高最低温度-->
-                            <LinearLayout
-                                android:id="@+id/layout_low_hight_temperature"
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:orientation="horizontal"
-                                android:visibility="visible">
+                    <!--最高最低温度-->
+                      <LinearLayout
+                         android:id="@+id/layout_low_hight_temperature"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:orientation="horizontal"
+                         android:visibility="visible"
+                         android:layout_marginTop="35px">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="温度:   "
+                                    android:textColor="@color/white"
+                                    android:textSize="28px"/>
 
                                 <TextView
                                     android:id="@+id/txt_cur_low_temperature"
@@ -185,14 +185,14 @@
                                     android:layout_height="wrap_content"
                                     android:text="@string/no_temp_data"
                                     android:textColor="@color/white"
-                                    android:textSize="22px" />
+                                    android:textSize="28px" />
 
                                 <TextView
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:text="@string/low_to_hight_symbol"
                                     android:textColor="@color/white"
-                                    android:textSize="22px" />
+                                    android:textSize="28px" />
 
                                 <TextView
                                     android:id="@+id/txt_cur_hight_temperature"
@@ -200,25 +200,36 @@
                                     android:layout_height="wrap_content"
                                     android:text="@string/no_temp_data"
                                     android:textColor="@color/white"
-                                    android:textSize="22px" />
+                                    android:textSize="28px" />
 
                                 <TextView
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:text="@string/degree_celsius"
                                     android:textColor="@color/white"
-                                    android:textSize="22px" />
+                                    android:textSize="28px" />
                             </LinearLayout>
 
-                        </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/wind_llayout"
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:orientation="horizontal"
+                           android:layout_marginTop="35px">
+                           <TextView
+                               android:layout_width="wrap_content"
+                               android:layout_height="wrap_content"
+                               android:text="风向:    "
+                               android:textColor="@color/white"
+                               android:textSize="28px"/>
 
                         <TextView
                             android:id="@+id/weather_time_view_windDirection"
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
-                            android:layout_marginLeft="26px"
                             android:textColor="@color/white"
-                            android:textSize="22px" />
+                            android:textSize="28px" />
 
                         <TextView
                             android:id="@+id/weather_time_view_windSpeed"
@@ -226,16 +237,33 @@
                             android:layout_height="wrap_content"
                             android:text="@string/smart_weather_wind_speed1"
                             android:textColor="@color/white"
-                            android:textSize="22px" />
+                            android:textSize="28px" />
+
+                       </LinearLayout>
+
+
                     </LinearLayout>
 
 
-                </LinearLayout>
-            </LinearLayout>
-            <!-- weather icon -->
+            <ImageView
+                android:id="@+id/img_weather_icon"
+                android:layout_width="162px"
+                android:layout_height="162px"
 
-
-            <!-- weather current temp -->
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="233px"
+                android:layout_marginRight="95px" />
+            <!--当前天气现象-->
+            <TextView
+                android:id="@+id/txt_cur_weather_condition"
+                android:layout_width="162px"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/img_weather_icon"
+                android:layout_alignLeft="@id/img_weather_icon"
+                android:gravity="center"
+                android:text="雷阵雨"
+                android:textColor="@color/white"
+                android:textSize="28px" />
 
 
             <!-- weather details button list style -->
@@ -249,37 +277,19 @@
                 android:layout_marginRight="69px"
                 android:background="@drawable/weather_style"
                 android:visibility="gone" />
-            <!-- android:layout_marginTop="10dip" -->
 
-
-            <!-- weather condition eg. sunny -->
-
-
-            <!-- weather low to high temp -->
-
-
-            <!--
-                 <TextView
-                android:id="@+id/weather_lowhigh"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignLeft="@id/curTemp_parent"
-                android:layout_below="@id/weathernum"
-                android:drawableRight="@drawable/weather_unit_small_temp"
-                android:textColor="@color/whiteColor"
-                android:textSize="20sp"
-                android:visibility="invisible" />
-            -->
 
         </RelativeLayout>
     </FrameLayout>
 
     <FrameLayout
         android:id="@+id/commonweather"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-
-        android:layout_toRightOf="@id/details">
+        android:layout_width="980px"
+        android:layout_height="390px"
+        android:layout_below="@id/details"
+        android:background="@drawable/threeday_bg"
+        android:layout_marginLeft="50px"
+        android:layout_marginTop="10px">
 
         <!-- android:layout_height="292dp" -->
 
@@ -287,16 +297,13 @@
             android:id="@+id/lv_last_few_days_weather"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="left"
-            android:layout_marginLeft="20px"
-            android:layout_marginBottom="68px"
-            android:layout_marginRight="40px"
-            android:layout_marginTop="122px"
             android:divider="@null"
             android:fastScrollEnabled="false"
-            android:numColumns="3"
+            android:numColumns="1"
+
             android:scrollbars="none"
-            android:visibility="visible" /> <!--  -->
+            android:visibility="visible"
+           /> <!--  -->
 
         <!--android:numColumns="3"-->
         <!-- android:layout_marginLeft="@dimen/listitemview_layout_marginleft" -->

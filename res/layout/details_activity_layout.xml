@@ -3,26 +3,51 @@
     android:id="@+id/weatherdetail"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/weather_lowcostbg"
+    android:background="#1F2E43"
     android:orientation="vertical">
 
 
     <RelativeLayout
+        android:id="@+id/top_title"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="90px">
 
         <!-- android:background="@drawable/weather_tip_red_bg" -->
 
         <TextView
+            android:id="@+id/weather_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="36px"
+            android:layout_marginLeft="62px"
+            android:layout_marginTop="35px"
             android:text="@string/title"
             android:textColor="@color/white"
-            android:textSize="36px"
-            android:visibility="gone" />
+            android:textSize="28px"
+          />
+        <Button
+            android:id="@+id/fresh_button"
+            android:layout_width="80px"
+            android:layout_height="80px"
+            android:layout_toRightOf="@id/weather_tv"
+            android:layout_marginLeft="13px"
+            android:layout_marginTop="10px"
+            android:background="@drawable/weather_fresh_city_style"
 
+            android:textAllCaps="false"
+            android:textColor="@drawable/weather_textcolor"
+            android:textSize="@dimen/top_button_text_size"
+            android:typeface="normal" />
+
+        <Button
+            android:id="@+id/freshbutton"
+            android:layout_width="80px"
+            android:layout_height="80px"
+            android:layout_toRightOf="@id/weather_tv"
+            android:layout_marginLeft="23px"
+
+            android:layout_marginTop="10px"
+            android:background="@drawable/flyprogress_bar_quan"
+            android:visibility="gone" />
 
         <Button
             android:id="@+id/choosecity_button"
@@ -52,45 +77,55 @@
             android:visibility="gone" />
     </RelativeLayout>
 
+   <ImageView
+       android:id="@+id/top_img"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:background="@drawable/top_bg"
+       android:layout_marginLeft="50px"
+       android:layout_marginTop="46px"
+       android:layout_below="@id/top_title"/>
+
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_below="@id/top_img">
 
         <!-- android:background="@drawable/under_tid_bg" -->
 
         <cn.flyaudio.weather.view.ViewFlow
             android:id="@+id/viewflow"
             android:layout_width="match_parent"
-            android:layout_height="900px"
+            android:layout_height="910px"
             android:visibility="visible"
             android:duplicateParentState="true"
 
             ></cn.flyaudio.weather.view.ViewFlow>
     </LinearLayout>
 
-    <Button
-        android:id="@+id/fresh_button"
-        android:layout_width="100px"
-        android:layout_height="90px"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:background="@drawable/weather_fresh_city_style"
-        android:gravity="center"
-        android:textAllCaps="false"
-        android:textColor="@drawable/weather_textcolor"
-        android:textSize="@dimen/top_button_text_size"
-        android:typeface="normal" />
+    <!--<Button-->
+        <!--android:id="@+id/fresh_button"-->
+        <!--android:layout_width="80px"-->
+        <!--android:layout_height="80px"-->
+        <!--android:layout_alignParentEnd="true"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:background="@drawable/weather_fresh_city_style"-->
+        <!--android:gravity="center"-->
+        <!--android:textAllCaps="false"-->
+        <!--android:textColor="@drawable/weather_textcolor"-->
+        <!--android:textSize="@dimen/top_button_text_size"-->
+        <!--android:typeface="normal" />-->
 
-    <Button
-        android:id="@+id/freshbutton"
-        android:layout_width="39px"
-        android:layout_height="39px"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginRight="30px"
-        android:layout_marginTop="28px"
-        android:background="@drawable/flyprogress_bar_quan"
-        android:visibility="gone" />
+    <!--<Button-->
+        <!--android:id="@+id/freshbutton"-->
+        <!--android:layout_width="39px"-->
+        <!--android:layout_height="39px"-->
+        <!--android:layout_alignParentEnd="true"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_marginRight="30px"-->
+        <!--android:layout_marginTop="28px"-->
+        <!--android:background="@drawable/flyprogress_bar_quan"-->
+        <!--android:visibility="gone" />-->
 
     <TextView
         android:id="@+id/tv_error"

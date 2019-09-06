@@ -171,9 +171,6 @@ public class GetWeatherUtil {
         sb.append("nonce=" + md5String);
         RequestBody body = RequestBody.create(MediaType.parse("charset=utf-8"), sb.toString());
         final ArrayList<String> finalCityNumToCityId = cityNumToCityId;
-
-        Log.d("yexingyun", "okgo--s--  body==" + sb.toString());
-        Log.d("yexingyun", "okgo--s--  mtime==" + mtime.toString());
         OkGo.<String>post(cn.flyaudio.weather.util.Constant.REQUEST_URL)
                 .upRequestBody(body).execute(new StringCallback() {
             private List<FullWeatherInfo> fullWeatherInfoList;

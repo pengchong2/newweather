@@ -29,7 +29,9 @@ android {
     
 //compileSdkVersion 28
     compileSdkVersion 22
+
     buildToolsVersion '28.0.2'
+
 
     sourceSets {
         main {
@@ -58,7 +60,9 @@ android {
         checkReleaseBuilds false
         abortOnError false
     }
+
     defaultConfig {
         minSdkVersion = 14
     }
+
 }
